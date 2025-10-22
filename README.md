@@ -71,6 +71,6 @@ Outputs will be saved in the project folder.
 📂 Dataset Credits
 
 The dataset used in this project is from Kaggle:
-Mall Customers Dataset
+Mall Customers Dataset(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 Used for educational and portfolio purposes only.
