@@ -40,9 +40,13 @@ Visualization – Plot clusters and centroids
 
 🗂️ Outputs
 File	Description
-Elbow_Method.png	Determines optimal cluster number
-Cluster_Summary.csv	Cluster metrics & business insights
-Customer_Segments.png	Visual cluster representation
+
+Elbow_Method.png-Determines optimal cluster number
+
+Cluster_Summary.csv	-Cluster metrics & business insights
+
+Customer_Segments.png	-Visual cluster representation
+
 💡 Business Insights
 
 High-income, high spenders → Premium products & personalized marketing
@@ -56,7 +60,9 @@ Low-income, low spenders → Discounts & offers
 Moderate segment → General promotions & loyalty programs
 
 🚀 How to Run
+
 pip install pandas matplotlib seaborn scikit-learn
+
 python customer_segmentation.py
 
 
